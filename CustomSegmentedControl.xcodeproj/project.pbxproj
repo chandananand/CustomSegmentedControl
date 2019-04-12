@@ -14,6 +14,7 @@
 		AF141814225F0145002FEFDD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF141812225F0145002FEFDD /* LaunchScreen.storyboard */; };
 		AF14181F225F0145002FEFDD /* CustomSegmentedControlTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF14181E225F0145002FEFDD /* CustomSegmentedControlTests.swift */; };
 		AF14182A225F0145002FEFDD /* CustomSegmentedControlUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF141829225F0145002FEFDD /* CustomSegmentedControlUITests.swift */; };
+		AF141838225F05D6002FEFDD /* CustomSegmentedControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF141837225F05D6002FEFDD /* CustomSegmentedControl.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		AF141825225F0145002FEFDD /* CustomSegmentedControlUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CustomSegmentedControlUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF141829225F0145002FEFDD /* CustomSegmentedControlUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomSegmentedControlUITests.swift; sourceTree = "<group>"; };
 		AF14182B225F0145002FEFDD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AF141837225F05D6002FEFDD /* CustomSegmentedControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomSegmentedControl.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				AF141810225F0145002FEFDD /* Assets.xcassets */,
 				AF141812225F0145002FEFDD /* LaunchScreen.storyboard */,
 				AF141815225F0145002FEFDD /* Info.plist */,
+				AF141837225F05D6002FEFDD /* CustomSegmentedControl.swift */,
 			);
 			path = CustomSegmentedControl;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				AF14180C225F0143002FEFDD /* ViewController.swift in Sources */,
 				AF14180A225F0143002FEFDD /* AppDelegate.swift in Sources */,
+				AF141838225F05D6002FEFDD /* CustomSegmentedControl.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
